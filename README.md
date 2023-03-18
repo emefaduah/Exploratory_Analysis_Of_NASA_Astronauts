@@ -1,7 +1,7 @@
 # Exploratory_Analysis_Of_NASA_Astronauts
 Astronauts are people trained to pilot a spacecraft,travel in spacecraft or work in space.
 There is no doubt that being an astronauts comes with lots of advantadges. One of the main avantadges of being 
-an astronaut is the fact that you get to fly in space and see the stars  plus they are one of the highest paid profesionals in the world however 
+an astronaut is the fact that you get to fly in space and see the stars. Also, they are one of the highest paid profesionals in the world however 
 it comes with some disadvantadges.Being in spaceship for too long can harm your bones and blood of astronauts, and can affect thier mental health.In addition, they are
 susceptible to increased level of dangerous radiation. Would you like to be an astronaut? What does it take to be one?
 
